@@ -1,0 +1,13 @@
+{
+  "name": "example_project_one",
+  "type": "package",
+  "blockId": "y6tHPJFYJPx7isk_LBdY3",
+  "source": {
+    "https": "https://github.com/Neoito-metrics/example_project_one",
+    "ssh": "git@github.com:Neoito-metrics/example_project_one.git"
+  },
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
